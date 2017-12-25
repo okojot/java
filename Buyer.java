@@ -3,7 +3,7 @@
 public class Buyer {
 	String name;
 	Basket basket;
-	{123}
+	{123456}
 	Buyer(String name,Basket basket){
 		
 		this.name=name;
